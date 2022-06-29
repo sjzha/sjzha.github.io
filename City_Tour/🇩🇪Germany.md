@@ -46,3 +46,7 @@ parent: 🗺City Tour
 ## [Baden-Baden](https://en.wikipedia.org/wiki/Baden-Baden)
 
 ![Baden-Baden](🇩🇪Germany/Baden-Baden.jpeg)
+
+## [Weimar](https://en.wikipedia.org/wiki/Weimar)
+
+![Weimar](🇩🇪Germany/Weimar.jpeg)
