@@ -9,35 +9,34 @@ parent: 🗺City Tour
 1. TOC
 {:toc}
 
-## [Livorno](https://en.wikipedia.org/wiki/Livorno)
+## [Milan](https://en.wikipedia.org/wiki/Milan)
 
-![Livorno](🇮🇹Italy/Livorno.jpeg)
-
-## [Pisa](https://en.wikipedia.org/wiki/Pisa)
-
-![Pisa](🇮🇹Italy/Pisa.jpeg)
-
-## [Florence](https://en.wikipedia.org/wiki/Florence)
-
-![Florence](🇮🇹Italy/Florence.jpeg)
-
-## [Modena](https://en.wikipedia.org/wiki/Modena)
-
-![Modena](🇮🇹Italy/Modena.jpeg)
-
-## [Bologna](https://en.wikipedia.org/wiki/Bologna)
-
-![Bologna](🇮🇹Italy/Bologna.jpeg)
-
-## [Venice](https://en.wikipedia.org/wiki/Venice)
-
-![Venice](🇮🇹Italy/Venice.jpeg)
+![Milan](🇮🇹Italy/Milan.jpeg)
 
 ## [Verona](https://en.wikipedia.org/wiki/Verona)
 
 ![Verona](🇮🇹Italy/Verona.jpeg)
 
-## [Milan](https://en.wikipedia.org/wiki/Milan)
+## [Venice](https://en.wikipedia.org/wiki/Venice)
 
-![Milan](🇮🇹Italy/Milan.jpeg)
+![Venice](🇮🇹Italy/Venice.jpeg)
 
+## [Bologna](https://en.wikipedia.org/wiki/Bologna)
+
+![Bologna](🇮🇹Italy/Bologna.jpeg)
+
+## [Modena](https://en.wikipedia.org/wiki/Modena)
+
+![Modena](🇮🇹Italy/Modena.jpeg)
+
+## [Florence](https://en.wikipedia.org/wiki/Florence)
+
+![Florence](🇮🇹Italy/Florence.jpeg)
+
+## [Pisa](https://en.wikipedia.org/wiki/Pisa)
+
+![Pisa](🇮🇹Italy/Pisa.jpeg)
+
+## [Livorno](https://en.wikipedia.org/wiki/Livorno)
+
+![Livorno](🇮🇹Italy/Livorno.jpeg)
