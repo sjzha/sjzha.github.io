@@ -50,3 +50,11 @@ parent: 🗺City Tour
 ## [Weimar](https://en.wikipedia.org/wiki/Weimar)
 
 ![Weimar](🇩🇪Germany/Weimar.jpeg)
+
+## [Wiesbaden](https://en.wikipedia.org/wiki/Wiesbaden)
+
+![Wiesbaden](🇩🇪Germany/Wiesbaden.jpeg)
+
+## [Koblenz](https://en.wikipedia.org/wiki/Koblenz)
+
+![Koblenz](🇩🇪Germany/Koblenz.jpeg)
