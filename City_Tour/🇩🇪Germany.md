@@ -58,3 +58,15 @@ parent: 🗺City Tour
 ## [Koblenz](https://en.wikipedia.org/wiki/Koblenz)
 
 ![Koblenz](🇩🇪Germany/Koblenz.jpeg)
+
+## [Mannheim](https://en.wikipedia.org/wiki/Mannheim)
+
+![Mannheim](🇩🇪Germany/Mannheim.jpeg)
+
+## [Frankfurt](https://en.wikipedia.org/wiki/Frankfurt)
+
+![Frankfurt](🇩🇪Germany/Frankfurt.jpeg)
+
+## [Mainz](https://en.wikipedia.org/wiki/Mainz)
+
+![Mainz](🇩🇪Germany/Mainz.jpeg)
