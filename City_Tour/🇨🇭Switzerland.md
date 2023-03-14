@@ -10,3 +10,5 @@ parent: 🗺City Tour
 {:toc}
 
 ## [Basel](https://en.wikipedia.org/wiki/Basel)
+
+![Basel](🇨🇭Switzerland/Basel.jpeg)
