@@ -12,3 +12,11 @@ parent: 🗺City Tour
 ## [Bangkok](https://en.wikipedia.org/wiki/Bangkok)
 
 ![Bangkok](🇹🇭Thailand/Bangkok.jpeg)
+
+## [Chiang Mai](https://en.wikipedia.org/wiki/Chiang_Mai)
+
+![Chiang_Mai](🇹🇭Thailand/Chiang_Mai.jpg)
+
+## [Sukhothai]([Title](https://en.wikipedia.org/wiki/Sukhothai_(city))
+
+![Sukhothai](🇹🇭Thailand/Sukhothai.jpg)
