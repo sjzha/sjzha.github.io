@@ -17,6 +17,6 @@ parent: 🗺City Tour
 
 ![Chiang_Mai](🇹🇭Thailand/Chiang_Mai.jpg)
 
-## [Sukhothai]([Title](https://en.wikipedia.org/wiki/Sukhothai_(city))
+## [Sukhothai](https://en.wikipedia.org/wiki/Sukhothai_(city))
 
 ![Sukhothai](🇹🇭Thailand/Sukhothai.jpg)
